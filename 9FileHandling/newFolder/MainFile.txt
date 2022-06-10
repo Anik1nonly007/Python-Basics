@@ -1,0 +1,7 @@
+write anything
+  write anything
+0123
+data mining
+We cann't create same name(file.txt) file in exclusive mode or x mode
+We cann't create same name(file.txt) file in exclusive mode or x mode
+We cann't create same name(file.txt) file in exclusive mode or x mode
