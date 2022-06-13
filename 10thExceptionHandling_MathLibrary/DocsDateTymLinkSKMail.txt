@@ -1,0 +1,4 @@
+https://www.ibm.com/docs/en/i/7.2?topic=functions-strftime-convert-datetime-string
+
+hrvpython@gmail.com
+
